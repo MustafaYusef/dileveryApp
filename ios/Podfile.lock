@@ -1,0 +1,71 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_open_whatsapp (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - maps_launcher (0.0.1):
+    - Flutter
+  - OneSignal (2.15.2)
+  - onesignal_flutter (2.6.1):
+    - Flutter
+    - OneSignal (= 2.15.2)
+  - path_provider (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_open_whatsapp (from `.symlinks/plugins/flutter_open_whatsapp/ios`)
+  - maps_launcher (from `.symlinks/plugins/maps_launcher/ios`)
+  - onesignal_flutter (from `.symlinks/plugins/onesignal_flutter/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - OneSignal
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_open_whatsapp:
+    :path: ".symlinks/plugins/flutter_open_whatsapp/ios"
+  maps_launcher:
+    :path: ".symlinks/plugins/maps_launcher/ios"
+  onesignal_flutter:
+    :path: ".symlinks/plugins/onesignal_flutter/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_open_whatsapp: 4b54cd5403cfe53414e4252fd52fc27f79635f58
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  maps_launcher: eae38ee13a9c3f210fa04e04bb4c073fa4c6ed92
+  OneSignal: 9531e385388565f4d31797ddadbe0fcc786430ec
+  onesignal_flutter: b4412973eac419ccce07363e43e0d6057c583a96
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
